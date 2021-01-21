@@ -1,2 +1,2 @@
 cd %UserProfile%\git-email-switch
-start "" "%SystemRoot%\pyw.exe" "email_switch.pyw"
+start "" "venv\Scripts\pythonw.exe" "email_switch.pyw"
