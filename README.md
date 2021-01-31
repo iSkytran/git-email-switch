@@ -32,7 +32,7 @@ Create a YAML file in the folder called `config.yml` with the two emails desired
 ## Run
 
 ```sh
-python email_switch.py
+python email_switch.pyw
 ```
 
-For usage with Logitech G HUB macros, the batch file can be used. The batch file will only work if the repository is in the home folder.
+For usage with Logitech G HUB macros or keyboard shortcuts, the batch file can be used. The batch file will only work if the repository is in the home folder. For usage with keyboard shortcuts, make a file shortcut to the batch file and assign a key to the shortcut in properties.
